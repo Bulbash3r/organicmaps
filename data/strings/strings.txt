@@ -44,7 +44,7 @@
     tags = android,ios
     en = Cancel
     ar = إلغاء
-    be = Адмяніць
+    be = Адхіліць
     bg = Отмяна
     cs = Zrušit
     da = Afbryd
@@ -83,7 +83,7 @@
     tags = ios
     en = Cancel Download
     ar = إلغاء التنزيل
-    be = Адмяніць спампоўку
+    be = Адхіліць спампоўку
     bg = Отмяна на изтегляне
     cs = Zrušit stahování
     da = Annuller download
