@@ -16836,6 +16836,10 @@
     zh-Hans = 化妝品店
     zh-Hant = 化妆品
 
+  [type.shop.deli]
+    en = Delicatessen Shop
+    ru = Магазин деликатесов
+
   [type.shop.department_store]
     en = Department Store
     ar = متجر شامل
@@ -17038,6 +17042,10 @@
     vi = Cửa hàng
     zh-Hans = 商店
     zh-Hant = 購物
+
+  [type.shop.farm]
+    en = Farm Food Shop
+    ru = Магазин фермерской еды
 
   [type.shop.florist]
     en = Florist’s
@@ -17244,6 +17252,10 @@
     zh-Hans = 蔬果零售店
     zh-Hant = 蔬果零售店
 
+  [type.shop.grocery]
+    en = Grocery
+    ru = Бакалея
+
   [type.shop.hairdresser]
     en = Hairdresser
     ar = مصفف شعر
@@ -17279,38 +17291,14 @@
     zh-Hant = 理髮師
 
   [type.shop.hardware]
-    en = Hardware Store
-    ar = متجر عدد وأدوات
-    cs = Železářství
-    da = Isenkræmmer
-    de = Eisenwarengeschäft
-    el = Είδη κιγκαλερίας
-    es = Ferretería
-    eu = Burdindegia
-    fa = فروشگاه
-    fi = Rautakauppa
-    fr = Quincaillerie
-    hu = Vaskereskedés
-    id = Toko perangkat keras
-    it = Ferramenta
-    ja = 工具店
-    ko = 철물점
-    mr = हार्डवेअर दुकान
-    nb = Jernvareforretning
-    nl = Ijzerhandel
-    pl = Sklep narzędziowy
-    pt = Loja de ferragens
-    pt-BR = Loja de ferragens
-    ro = Magazin de bricolaj
-    ru = Хозяйственный
-    sk = Železiarstvo
-    sv = Järnhandel
-    th = ร้านขายฮาร์ดแวร์
-    tr = Hırdavatçı
-    uk = Будматеріали
-    vi = Cửa hàng phần cứng
-    zh-Hans = 硬件店
-    zh-Hant = 五金行
+    ref = type.shop.doityourself
+
+  [type.shop.health_food]
+    en = Health Food Shop
+    ru = Магазин здоровой еды
+
+  [type.shop.houseware]
+    ref = type.shop.doityourself
 
   [type.shop.jewelry]
     en = Jewelry
@@ -17372,6 +17360,10 @@
     vi = Cửa hàng
     zh-Hans = 商店
     zh-Hant = 小舖
+
+  [type.shop.kitchen]
+    en = Kitchen Store
+    ru = Магазин кухонь
 
   [type.shop.laundry]
     en = Laundry
@@ -17746,6 +17738,11 @@
     vi = Thiết bị Ngoài trời
     zh-Hans = 室外设备
     zh-Hant = 室外設備
+
+  [type.shop.pastry]
+    ref = type.shop.bakery
+    en = Pastry
+    ru = Кондитерская пекарня
 
   [type.shop.pawnbroker]
     en = Pawnbroker
