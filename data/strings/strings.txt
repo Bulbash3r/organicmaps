@@ -1113,7 +1113,7 @@
     tags = android
     en = Go to Map
     ar = الذهاب الى الخريطة
-    be = Перайскі да мапы
+    be = Перайсці да мапы
     bg = Към картата
     cs = Přejít na mapu
     da = Gå til kort
@@ -1904,7 +1904,7 @@
     comment = Removable external storage type in Maps Storage settings, e.g. an SD card
     tags = android
     en = SD card
-    be = SD-карта
+    be = SD-картка
     pt-BR = Cartão SD
     ru = SD-карта
     uk = SD-карта
@@ -6182,7 +6182,7 @@
     tags = android,ios
     en = In order to create a route, we need to download and update all the maps from your location to your destination.
     ar = Creare un percorso necessita la presenza di tutte le mappe scaricate e aggiornate dalla tua posizione alla destinazione.
-    be = Каб пракласці маршрут, трэба спампаваць і абнавіць усе мапы на на вашым шляху.
+    be = Каб пракласці маршрут, трэба спампаваць і абнавіць усе мапы на вашым шляху.
     bg = За да създадем маршрут, трябва да изтеглим и актуализираме всички карти от местоположението ви до вашата дестинация.
     cs = Naplánování trasy vyžaduje stažení a aktualizaci všech map z vašeho umístění do cílového umístění.
     da = Ved at oprette en rute kræver det, at alle kort fra din placering til destination er downloadede og opdaterede.
@@ -7335,7 +7335,7 @@
     tags = android,ios
     en = Unable to create route. Current GPS coordinates could not be identified.
     ar = تعذر إنشاء مسار. لا يمكن تحديد إحداثيات GPS الحالية.
-    be = Не атрымалася пракласци маршрут. Каардынаты GPS не вызначаны.
+    be = Не атрымалася пракласці маршрут. Каардынаты GPS не вызначаны.
     bg = Не е възможно да се създаде маршрут. Текущите GPS координати не могат да бъдат идентифицирани.
     cs = Trasu se nepodařilo vytvořit. Nelze zjistit aktuální souřadnice GPS.
     da = Det lykkedes ikke at planlægge en rute. GPS-koordinaterne kunne ikke identificeres korrekt.
@@ -7373,7 +7373,7 @@
     tags = android,ios
     en = Please check your GPS signal. Enabling Wi-Fi will improve your location accuracy.
     ar = يُرجى التحقق من إشارة GPS لديك. ويساعد تمكين خدمة Wi-Fi في تحسين دقة تحديد موقعك.
-    be = Калі ласка, праверце сігнал GPS. Для больш дакладнага вызначэння месцазнаходжання уключыце Wi-Fi.
+    be = Калі ласка, праверце сігнал GPS. Для больш дакладнага вызначэння месцазнаходжання ўключыце Wi-Fi.
     bg = Моля, проверете GPS сигнала. Включването на Wi-Fi ще подобри точността на местоположението ви.
     cs = Zkontrolujte signál GPS. Povolením připojení WiFi zpřesníte určení vaší polohy.
     da = Tjek venligst dit GPS-signal. Din placering registreres mere præcist, hvis wi-fi er slået til.
@@ -7411,7 +7411,7 @@
     tags = android,ios
     en = Enable location services
     ar = تمكين خدمات المواقع
-    be = Уключыць геалагацыю
+    be = Уключыць геалакацыю
     bg = Активиране на услугите за местоположение
     cs = Povolit služby určování polohy
     da = Slå lokaliseringstjenester til
@@ -7525,7 +7525,7 @@
     tags = ios
     en = Download and update all map and routing information along the projected path to calculate route.
     ar = قم بتنزيل وتحديث كافة الخرائط ومعلومات التوجيه على طول الطريق المتوقع لحساب المسار.
-    be = Спампуйце і абнавіце усе мапы і дадзеныя навігацыі на планаваным шляху каб пракласці маршрут.
+    be = Спампуйце і абнавіце ўсе мапы і дадзеныя навігацыі на запланаваным шляху каб пракласці маршрут.
     bg = За да изчислите маршрут, изтеглете и актуализирайте всички карти и пътища по маршрута.
     cs = Stáhnout a aktualizovat všechny mapy a data tras pro výpočet trasy podél navrhované cesty.
     da = Download og opdatér alle kort og ruteoplysninger for at beregne en rute.
@@ -8247,7 +8247,7 @@
     tags = android
     en = Select Map
     ar = اختيار الخريطة
-    be = Выбраці мапу
+    be = Абраць мапу
     bg = Избор на карта
     cs = Vybrat mapu
     da = Vælk kortet
@@ -8362,7 +8362,7 @@
     tags = ios
     en = Route Planning Failed
     ar = فشل في تخطيط المسار
-    be = Памылка пракладання маршрута
+    be = Памылка пракладання маршруту
     bg = Неуспешно планиране на маршрут
     cs = Naplánování trasy se nezdařilo
     da = Ruteplanlægning mislykkedes
@@ -8694,7 +8694,7 @@
     tags = android,ios
     en = View recent searches.
     ar = الوصول إلى استعلامات البحث الحديثة بسرعة.
-    be = Праглядзець нядаўныя пошукі.
+    be = Праглядзець нядаўнія пошукі.
     bg = Преглед на последните търсения.
     cs = Získejte rychlý přístup k hledaným výrazům.
     da = Gå hurtigt ind på seneste forespørgsel.
@@ -9529,7 +9529,7 @@
     tags = ios
     en = You’ve changed the world map. Do not keep it to yourself! Tell your friends, and edit it together.
     ar = لقد غيرت خريطة العالم. لا تخفي ذلك! اخبر أصدقاءك، وغيروها معا.
-    be = Вы змянілі мапу свету. Не прыхоўвайце гэта! Расскажыце сябрам і праўце разам.
+    be = Вы змянілі мапу свету. Не прыхоўвайце гэта! Расскажыце сябрам і працуйце разам.
     bg = Променили сте картата на света. Не го крийте, кажете на приятелите си и редактирайте заедно.
     cs = Změnili jste světovou mapu. Neskrývejte to! Řekněte o tom svým kamarádům a upravujte ji společně.
     da = Du har ændret verdenskortet. Lad andre det vide! Fortæl dine venner og redigér det sammen.
